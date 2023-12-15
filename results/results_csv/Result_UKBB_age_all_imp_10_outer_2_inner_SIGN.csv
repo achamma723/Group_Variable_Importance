@@ -1,0 +1,17 @@
+variable,p_value,Data Source
+brain_dmri_fa,4.11304971989778E-09,Brain
+brain_dmri_icvf,1.89548862469562E-11,Brain
+brain_dmri_isovf,2.22361304692425E-05,Brain
+brain_dmri_l1,9.34602017008972E-11,Brain
+brain_dmri_l2,0.000341560081555,Brain
+brain_dmri_l3,0.000994472278832,Brain
+brain_dmri_md,0.077362757219536,Brain
+brain_dmri_mo,7.90207629859393E-07,Brain
+brain_dmri_od,4.11438657621352E-08,Brain
+brain_smri_plus,6.2474913611948E-73,Brain
+connectivity,2.76613664185375E-05,Brain
+earlylife,0.000287753951021,Social
+education,9.01079273447973E-06,Social
+lifestyle,2.2828711379346E-142,Social
+mental_health,0.00583801687966,Social
+primary_demographics,1.68497388922181,Social
