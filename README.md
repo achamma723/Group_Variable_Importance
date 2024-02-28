@@ -16,8 +16,8 @@ R
 
 load("requirements_r.rda")
 
-for (count in 1:length(installedpackages)) {
-    install.packages(installedpackages[count])
+for (count in 1:length(installed_packages)) {
+    install.packages(installed_packages[count])
 }
 ```
 > :warning: For ```reticulate```, if asked for default python virtual environment, the answer should be ```no``` to take the default *conda* environment into consideration
